@@ -1,0 +1,67 @@
+﻿
+
+
+
+
+
+Stephen Odell
+Senior Software Engineer
+Artisan Technology Group
+3rd Floor of Plexpod
+
+
+
+
+
+
+
+
+
+
+
+
+
+F# History
+
+* Created by Don Syme in 2005 (v1.x)
+* Functional first language (not pure)
+* Part of the .NET Framework
+  - leverages all those advantages
+
+
+
+
+
+
+
+
+
+
+
+Type Providers
+
+* Providing types at development time
+* Types for generally dynamic data that has schema
+* Pull metadata for system and hooks into F#
+  compiler services to generate types
+
+
+
+
+
+
+
+
+
+
+Other Type Providers and Creating your own
+
+Other providers:
+https://github.com/fsprojects/awesome-fsharp#type-providers
+https://sergeytihon.com/tag/type-providers/
+
+Type Provider SDK:
+https://github.com/fsprojects/FSharp.TypeProviders.SDK
+
+Microsoft Guide:
+https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/type-providers/creating-a-type-provider

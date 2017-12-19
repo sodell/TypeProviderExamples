@@ -55,13 +55,12 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
-    <Compile Include="Program.fs" />
+    <Content Include="Slides.txt" />
     <None Include="App.config" />
     <Content Include="packages.config" />
     <None Include="RegexTypeProvider.fsx" />
     <None Include="SwaggerTypeProvider.fsx" />
     <None Include="SqlTypeProvider.fsx" />
-    <None Include="CustomTypeProvider.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
